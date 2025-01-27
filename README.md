@@ -23,12 +23,12 @@ Este projeto é um sistema de autenticação simples e funcional desenvolvido em
 ---
 
 ## 📝 Regras de Validação
-- **Email**
-Deve conter "@" e "." com a posição correta.
-Não pode ser duplicado no sistema.
-- **Senha**
-Deve conter no mínimo 5 caracteres.
-Não pode conter espaços em branco.
+**Email**:
+- Deve conter "@" e "." com a posição correta.
+- Não pode ser duplicado no sistema.
+**Senha**:
+- Deve conter no mínimo 5 caracteres.
+- Não pode conter espaços em branco.
 
 ---
 
@@ -42,10 +42,10 @@ Não pode conter espaços em branco.
 ---
 
 ## 📂 Exemplo de Uso
-> O usuário seleciona a opção desejada no menu.
-> Caso escolha a opção de cadastro, um email e uma senha válidos devem ser fornecidos.
-> Após o cadastro, o login pode ser realizado com as credenciais criadas.
-> Para alterar a senha ou excluir a conta, o usuário precisa confirmar sua identidade.
+O usuário seleciona a opção desejada no menu.
+Caso escolha a opção de cadastro, um email e uma senha válidos devem ser fornecidos.
+Após o cadastro, o login pode ser realizado com as credenciais criadas.
+Para alterar a senha ou excluir a conta, o usuário precisa confirmar sua identidade.
 
 ---
 
@@ -63,4 +63,4 @@ Este sistema não é adequado para produção, pois não utiliza métodos seguro
 ---
 
 ## 📧 Contato
-Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+> Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
