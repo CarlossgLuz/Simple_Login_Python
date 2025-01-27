@@ -26,7 +26,7 @@ Este projeto é um sistema de autenticação simples e funcional desenvolvido em
 **Email**:
 - Deve conter "@" e "." com a posição correta.
 - Não pode ser duplicado no sistema.
-**Senha**:
+**Senha**:  
 - Deve conter no mínimo 5 caracteres.
 - Não pode conter espaços em branco.
 
