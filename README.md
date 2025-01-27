@@ -22,21 +22,6 @@ Este projeto é um sistema de autenticação simples e funcional desenvolvido em
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o Diretório do Projeto:
-bash
-Copiar
-Editar
-cd nome-do-repositorio
-Execute o Arquivo Python:
-bash
-Copiar
-Editar
-python nome_do_arquivo.py
 📝 Regras de Validação
 Email
 Deve conter "@" e "." com a posição correta.
@@ -64,15 +49,3 @@ Implementação de hashing para maior segurança de senhas.
 Interface gráfica ou integração com um framework web como Flask ou Django.
 📧 Contato
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-✨ Divirta-se explorando e personalizando este sistema simples de login!
-
-shell
-Copiar
-Editar
-
-### Descrição para o GitHub
-> **"Sistema de Login em Python com Dicionários"**  
-> Projeto básico de autenticação no terminal, utilizando dicionários para armazenar e gerenciar dados de usuários. Permite login, cadastro, redefinição de senha e exclusão de contas. Simples e ideal para aprendizado ou aprimoramento em Python!  
-
-Gostou ou quer ajustar algo? 😊
